@@ -1,0 +1,22 @@
+{
+  "name": "TAAVideo",
+  "version": "0.1.0",
+  "summary": "A short description of TAAVideo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/geyou2/TAAVideo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "geyou2": "2387034197@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/geyou2/TAAVideo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TAAVideo/Classes/**/*"
+}

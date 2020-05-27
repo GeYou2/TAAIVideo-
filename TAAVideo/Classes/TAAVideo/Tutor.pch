@@ -1,0 +1,16 @@
+//
+//  Tutor.pch
+//  TutorABC
+//
+//  Created by Slark on 2020/5/6.
+//  Copyright © 2020 Slark. All rights reserved.
+//
+
+#ifndef Tutor_pch
+#define Tutor_pch
+
+#import "Globle.h"
+
+
+
+#endif /* Tutor_pch */
